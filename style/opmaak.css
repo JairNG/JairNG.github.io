@@ -1,0 +1,64 @@
+body {
+  background-image:url("../img/controller-1294077_960_720.png");
+  background-size: 100%;
+  background-color: #4c4c4c;
+  font-family: verdana;
+}
+p{
+  border-radius: 20px 0px 20px 0px;
+  border: 4px blue double;
+  background-color: blue;
+  border: 2px solid black;
+  padding-left: 20px;
+  margin-right: 1000px;
+
+}
+h2{
+  text-align: center;
+  border: 2px solid black;
+  background-color: black;
+  color: #071418
+
+}
+
+h1 {
+  text-align: center;
+  border: 2px solid black;
+  color: #071418;
+  background-color: blue;
+  text-align: center;
+}
+
+h2#santa{
+  border: none;
+  background-color: #363738;
+  color: grey;
+}
+
+p#deze{
+  background-color: #363738;
+  border: none;
+  color: grey;
+
+}
+h3{
+  text-align: center;
+}
+ul:hover{
+  font-size: 25px
+}
+
+ul{
+  text-align: center;
+  border: 2px dotted black;
+  background-color: #616468;
+  font-size: 20px;
+}
+
+a:hover{
+ background-color: black;
+}
+
+a#groot:hover{
+  font-size: 20px;
+}
