@@ -62,3 +62,7 @@ a:hover{
 a#groot:hover{
   font-size: 20px;
 }
+
+table.prijslijst{
+  border-collapse: collapse;
+}
