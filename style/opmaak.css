@@ -68,5 +68,5 @@ table.prijslijst td{
 }
 
 table.prijslijst th{
-  border-collapse: collapse;
+  border: 2px solid black
 }
