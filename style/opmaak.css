@@ -64,7 +64,7 @@ a#groot:hover{
 }
 
 table.prijslijst td{
-  border-collapse: collapse;
+ border: 2px solid black
 }
 
 table.prijslijst th{
