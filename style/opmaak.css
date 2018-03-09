@@ -41,6 +41,11 @@ p#deze{
   border: none;
   color: grey;
 }
+li.ook:hover{
+  font-size: 15px;
+
+}
+
 h3{
   text-align: center;
 }
