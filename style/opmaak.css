@@ -48,7 +48,8 @@ li.ook{
 h3{
   text-align: center;
 }
-li{
+
+ul li{
   display: inline;
 }
 
@@ -56,7 +57,7 @@ li a:hover{
   font-size: 25px
 }
 li a{
-  text-decoration: none;
+  text-decoration: #3e4144;
 }
 
 
