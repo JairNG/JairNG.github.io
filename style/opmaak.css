@@ -50,11 +50,11 @@ h3{
 }
 li:hover{
   font-size: 25px
+}
+li{
+  text-decoration: none;
+}
 
-}
-li.ook{
-  display: inline;
-}
 
 ul{
   text-align: center;
