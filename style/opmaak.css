@@ -49,7 +49,7 @@ h3{
   text-align: center;
 }
 
-ul li{
+ul #li{
   display: inline;
 }
 
@@ -57,7 +57,7 @@ li a:hover{
   font-size: 25px
 }
 li a{
-  text-decoration: #3e4144;
+  text-decoration: none;
 }
 
 
