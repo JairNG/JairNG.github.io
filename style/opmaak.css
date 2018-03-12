@@ -48,10 +48,10 @@ li.ook{
 h3{
   text-align: center;
 }
-li:hover{
+li a:hover{
   font-size: 25px
 }
-li{
+li a{
   text-decoration: none;
 }
 
