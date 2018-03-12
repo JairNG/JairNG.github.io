@@ -43,7 +43,6 @@ p#deze{
 }
 li.ook{
   font-size: 7px;
-
 }
 
 h3{
@@ -51,6 +50,10 @@ h3{
 }
 li:hover{
   font-size: 25px
+
+}
+li.ook{
+  display: inline;
 }
 
 ul{
