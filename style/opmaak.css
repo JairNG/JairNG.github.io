@@ -52,7 +52,6 @@ h3{
 
 ul #li{
   display: inline;
-  color: #363738;
 }
 
 li a:hover{
@@ -60,6 +59,7 @@ li a:hover{
 }
 li a{
   text-decoration: none;
+  color: #363738
 }
 
 
