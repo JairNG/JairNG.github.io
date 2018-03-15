@@ -50,16 +50,14 @@ h3{
   text-align: center;
 }
 
-ul #li{
-  display: inline;
-}
+
 
 li a:hover{
-  font-size: 25px
+  font-size: 25px;
 }
 li a{
   text-decoration: none;
-  color: #363738
+  color: #363738;
 }
 
 
@@ -68,6 +66,8 @@ ul{
   border: 2px dotted black;
   background-color: #616468;
   font-size: 20px;
+  list-style-type: none;
+  display: inline;
 }
 
 
