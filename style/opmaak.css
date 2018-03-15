@@ -43,6 +43,7 @@ p#deze{
 }
 li.ook{
   font-size: 7px;
+  display: block;
 }
 
 h3{
