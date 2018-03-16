@@ -61,7 +61,7 @@ li a{
   color: #363738;
   display: block;
   margin: 8px;
-
+  color: white;
 }
 li:hover{
   font-size: 25px;
