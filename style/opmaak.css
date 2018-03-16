@@ -82,6 +82,11 @@ ul{
 
 a#groot:hover{
   font-size: 20px;
+  text-decoration: none;
+}
+a#groot{
+  text-decoration: none;
+  color: white;
 }
 
 table.prijslijst td{
