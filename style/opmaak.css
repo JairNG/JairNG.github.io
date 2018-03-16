@@ -41,33 +41,41 @@ p#deze{
   border: none;
   color: grey;
 }
-li.ook{
-  font-size: 7px;
-  display: block;
-}
+
 
 h3{
   text-align: center;
 }
 
-
-
-li a:hover{
-  font-size: 25px;
+li{
+  display: inline;
+  float: left;
 }
+a.ook{
+  text-decoration: none;
+}
+
+
 li a{
   text-decoration: none;
   color: #363738;
+  display: block;
+  margin: 8px;
+
+}
+li:hover{
+  font-size: 25px;
+  background-color: #111;
 }
 
 
 ul{
-  text-align: center;
-  border: 2px dotted black;
-  background-color: #616468;
   font-size: 20px;
+  margin: 0;
+  padding: 0;
   list-style-type: none;
-  display: inline;
+  overflow: hidden;
+  background-color: #232323;
 }
 
 
